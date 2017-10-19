@@ -32,44 +32,42 @@
     [
         "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1508371756000,
             "changeTime": 1508371756000,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 68,
-            "modifiedTime": 1508369587000,
-            "changeTime": 1508369587000,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 102,
+            "modifiedTime": 1508372023000,
+            "changeTime": 1508372023000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
         "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation",
         {
+            "state": "u",
             "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation",
             "isDirectory": true,
-            "size": 238,
-            "modifiedTime": 1508369806000,
-            "changeTime": 1508369806000,
-            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 306,
+            "modifiedTime": 1508371004000,
+            "changeTime": 1508371004000,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "4e7c1dce819cac4f989b59112851b4cd18059c1a"
         }
     ],
     [
@@ -218,40 +216,131 @@
     [
         "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1508371756000,
             "changeTime": 1508371756000,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1508371912000,
             "changeTime": 1508371912000,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7"
+            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1508371756000,
             "changeTime": 1508371756000,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1508372023000,
+            "changeTime": 1508372023000,
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28"
+        }
+    ],
+    [
+        "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 156,
+            "modifiedTime": 1508372091000,
+            "changeTime": 1508372091000,
+            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691"
+        }
+    ],
+    [
+        "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1508372023000,
+            "changeTime": 1508372023000,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f"
+        }
+    ],
+    [
+        "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 93,
+            "modifiedTime": 1508372144000,
+            "changeTime": 1508372144000,
+            "contentHash": "b356a58e36373fbe25b218e5ff667c16e69acfc7"
+        }
+    ],
+    [
+        "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1508372023000,
+            "changeTime": 1508372023000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1508372023000,
+            "changeTime": 1508372023000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mguse/Google Drive/Workspaces/sfdx_geoloc_app/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1508372023000,
+            "changeTime": 1508372023000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
